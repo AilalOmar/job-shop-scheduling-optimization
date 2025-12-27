@@ -1,0 +1,62 @@
+=============================================
+   JOB SHOP SCHEDULER - QUICK START
+=============================================
+
+Your application is RUNNING NOW at:
+http://localhost:8501
+
+Open this URL in your browser to use the app!
+
+=============================================
+HOW TO START THE APP
+=============================================
+
+METHOD 1 (Easy):
+  - Double-click "run_app.bat"
+
+METHOD 2 (Command line):
+  1. Open terminal/command prompt
+  2. Navigate to this folder:
+     cd "C:\Omar 2.0\A2_ECC_2A\Riane Indus 2A\Project\jsp-solver"
+  3. Run:
+     python -m streamlit run app.py
+
+The app will automatically open in your browser.
+
+=============================================
+USING THE APP
+=============================================
+
+1. Choose "Exemple 3x3" to see it work immediately
+2. Keep default parameters (temp=1000, cooling=0.95)
+3. Click the green "Résoudre" button
+4. View the results:
+   - Makespan (should be 7 - optimal!)
+   - Interactive Gantt chart
+   - Convergence curve
+
+=============================================
+STOPPING THE APP
+=============================================
+
+Press Ctrl+C in the terminal window
+
+=============================================
+TROUBLESHOOTING
+=============================================
+
+If you see "command not found":
+  - Use: python -m streamlit run app.py
+  - NOT: streamlit run app.py
+
+If port 8501 is busy:
+  - Use: python -m streamlit run app.py --server.port 8502
+  - Then open: http://localhost:8502
+
+=============================================
+NEED HELP?
+=============================================
+
+See README.md or GETTING_STARTED.md for full documentation.
+
+=============================================

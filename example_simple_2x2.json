@@ -1,0 +1,22 @@
+{
+  "name": "simple_2x2",
+  "n_machines": 2,
+  "n_jobs": 2,
+  "bks": null,
+  "jobs": [
+    {
+      "id": 0,
+      "operations": [
+        {"machine": 0, "duration": 5},
+        {"machine": 1, "duration": 3}
+      ]
+    },
+    {
+      "id": 1,
+      "operations": [
+        {"machine": 1, "duration": 4},
+        {"machine": 0, "duration": 2}
+      ]
+    }
+  ]
+}

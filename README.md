@@ -377,7 +377,7 @@ Project/
 
 ## Academic Context
 
-This project was developed as part of the **A2_ECC_2A - Riane Indus 2A** academic program, focusing on:
+This project was developed as part of an academic program, focusing on:
 
 - Mathematical modeling of combinatorial optimization problems
 - Implementation of exact and heuristic solution methods
@@ -431,11 +431,10 @@ This project is developed for academic purposes as part of industrial engineerin
 
 ## Contact & Support
 
-**Academic Institution:** A2_ECC_2A - Riane Indus 2A
+**Academic Institution:** Ecole Centrale Casablanca
 
 **Project Type:** Job Shop Scheduling Optimization
 
-**Documentation:** See `CLAUDE.md` for technical development details and `JSON_FORMAT_GUIDE.md` for input specifications.
 
 ---
 
